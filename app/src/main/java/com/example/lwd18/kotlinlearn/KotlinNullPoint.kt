@@ -4,7 +4,7 @@ package com.example.lwd18.kotlinlearn
 /**
  * 创建者     李文东
  * 创建时间   2017/8/19 16:33
- * 描述	      ${TODO}
+ * 描述	      kotlin基础(kotlin对于空指针的处理)
  * 更新者     $Author$
  * 更新时间   $Date$
  * 更新描述   ${TODO}
