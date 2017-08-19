@@ -10,6 +10,5 @@ class MainActivity : AppCompatActivity() {
     super.onCreate(savedInstanceState)
     setContentView(R.layout.activity_main)
     first_kotlin.setText("我的第一个kotlin代码")
-    //智能类型推断
   }
 }
