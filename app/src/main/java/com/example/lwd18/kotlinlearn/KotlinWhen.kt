@@ -4,7 +4,7 @@ package com.example.lwd18.kotlinlearn
 /**
  * 创建者     李文东
  * 创建时间   2017/8/19 16:42
- * 描述	      kotlin的when表达式(和java中的switch有异曲同工之处,但比switch更加强大,更加方便)
+ * 描述	     kotlin的when表达式(和java中的switch有异曲同工之处,但比switch更加强大,更加方便)
  * 更新者     $Author$
  * 更新时间   $Date$
  * 更新描述   ${TODO}
