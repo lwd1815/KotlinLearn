@@ -4,7 +4,7 @@ package com.example.lwd18.kotlinlearn
 /**
  * 创建者     李文东
  * 创建时间   2017/8/19 15:08
- * 描述	      kotlin基础
+ * 描述	      kotlin基础(常量/变量/基本数据类型/boolean值/string)
  * 更新者     $Author$
  * 更新时间   $Date$
  * 更新描述   ${TODO}
