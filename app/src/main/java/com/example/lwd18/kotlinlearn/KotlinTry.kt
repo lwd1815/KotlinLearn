@@ -22,7 +22,7 @@ fun main(args: Array<String>) {
     println("${number1}+${number2}=${number1 + number2}")
 
     try {
-
+      //在类型后面跟?表示这个对象可能为空,跟!!表示这个类型一定不为空
       var num1: Int = number1!!.toInt()
       var num2: Int = number2!!?.toInt()
       println("${num1}+${num2}=${num1 + num2}")
