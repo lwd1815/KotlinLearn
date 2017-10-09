@@ -40,3 +40,4 @@ fun add(x:Int,y:Int):Int{
 
 //函数式(效果和add一样)
 fun add1(x:Int,y:Int):Int=x+y
+fun a(x:Int,s:Int):Boolean=x>s
