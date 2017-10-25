@@ -7,7 +7,6 @@ package com.example.lwd18.kotlinlearn
  * 描述	      kotlin基础(具名参数/默认参数)
  * 更新者     $Author$
  * 更新时间   $Date$
- * 更新描述   ${TODO}
  */
 fun main(args: Array<String>) {
 
